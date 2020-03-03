@@ -1,42 +1,42 @@
-# Evol.Abp µãµã³©ĞĞ¹ã¸æÁ÷Á¿ÏîÄ¿
+# Evol.Abp æ¡†æ¶é¡¹ç›®ASP.NET Core
 
-µãµã³©ĞĞ¹ã¸æÏîÄ¿£¬ºó¶ËÏîÄ¿¡£»ùÓÚ.NET CORE 3.1 & ABP5¡£ Ö§³ÖWindow2012R2¡¢Linux£¨Centos7+...£©²¿Êğ
+åŸºäº.NET CORE 3.1 & ABP5ã€‚ æ”¯æŒWindow2012R2ã€Linuxï¼ˆCentos7+...ï¼‰éƒ¨ç½²
 
-[ABP5.0¹Ù·½ÎÄµµ](https://aspnetboilerplate.com/Pages/Documents/v5.0.0/)
+[ABP5.0å®˜æ–¹æ–‡æ¡£](https://aspnetboilerplate.com/Pages/Documents/v5.0.0/)
 
 [aspnetcore-3.1](https://docs.microsoft.com/zh-cn/aspnet/core/getting-started/?view=aspnetcore-3.1&tabs=windows)
 
-[AABP·Ö²ã¼Ü¹¹½¨ÒéËµÃ÷](https://www.cnblogs.com/zcc666/articles/11516164.html)
+[AABPåˆ†å±‚æ¶æ„å»ºè®®è¯´æ˜](https://www.cnblogs.com/zcc666/articles/11516164.html)
 
 
 
-## ½â¾ö·½°¸ËµÃ÷
+## è§£å†³æ–¹æ¡ˆè¯´æ˜
 
-### Evol.Abp.Web.Site ±íÏÖ²ã
+### Evol.Abp.Web.Site è¡¨ç°å±‚
 
-API¡¢Ò³Ãæ
+APIã€é¡µé¢
 
-### Evol.Abp.Application  ÒµÎñÂß¼­£¨ÁìÓò£©²ã
+### Evol.Abp.Application  ä¸šåŠ¡é€»è¾‘ï¼ˆé¢†åŸŸï¼‰å±‚
 
-### Evol.Abp.Component  ÊµÌå²ã
+### Evol.Abp.Component  å®ä½“å±‚
 
-ÊµÌåÄ£ĞÍ¡¢Ã¶¾Ù£¬¹«ÓÃ
+å®ä½“æ¨¡å‹ã€æšä¸¾ï¼Œå…¬ç”¨
 
-### Evol.Abp.Data Êı¾İ²ã
+### Evol.Abp.Data æ•°æ®å±‚
 
-¼¯³ÉDapper ºÍ EntityFrameworkCore£¬Í¨¹ıÖ¸¶¨DbContextÖ§³Ö¶àÊı¾İÁ¬½Ó
+é›†æˆDapper å’Œ EntityFrameworkCoreï¼Œé€šè¿‡æŒ‡å®šDbContextæ”¯æŒå¤šæ•°æ®è¿æ¥
 
-### Evol.Abp.Web.Core Web»ù´¡ÉèÊ©²ã
+### Evol.Abp.Web.Core WebåŸºç¡€è®¾æ–½å±‚
 
-Web¹«ÓÃ
+Webå…¬ç”¨
 
-### Evol.Abp.Core »ù´¡ÉèÊ©²ã
+### Evol.Abp.Core åŸºç¡€è®¾æ–½å±‚
 
-¿ò¼ÜºËĞÄ£¬¹«ÓÃ
+æ¡†æ¶æ ¸å¿ƒï¼Œå…¬ç”¨
 
-## ³£¼ûÎÊÌâ
+## å¸¸è§é—®é¢˜
 
-[³£¼ûÎÊÌâ](issue.md)
+[å¸¸è§é—®é¢˜](issue.md)
 
 
 
